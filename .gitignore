@@ -195,3 +195,4 @@ cython_debug/
 
 # qdrant storage
 /qdrant_storage
+/Workshop-dlt/db.qdrant
